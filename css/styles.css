@@ -6,7 +6,7 @@ nav img {
   margin-right:10px;
   border-radius: 5px;
   border: 1px solid grey;
-  transition: height .5s ease, width .5s ease;
+  transition: height .2s ease, width .2s ease;
   vertical-align:text-bottom;
 }
 div.container-header {
