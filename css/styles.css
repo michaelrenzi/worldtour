@@ -109,7 +109,7 @@ p.title {
 }
 section#feature {
   text-align: center;
-  background-image: url('img/halstatt.jpg');
+  background-image: url(../img/halstatt.jpg);
   background-size:cover;
   background-repeat:no-repeat;
   margin-top:122px;
@@ -212,7 +212,7 @@ section#post-feature {
 section#feature-subpage {
   text-align: center;
   background-size:cover;
-  background-image:url(img/st-lucia.jpg);
+  background-image:url(../img/st-lucia.jpg);
   background-repeat:no-repeat;
   min-height:250px;
   padding-top:150px;
