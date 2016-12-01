@@ -11,15 +11,16 @@ permalink: /map
 </div>
   <script type="text/javascript">
     var map = L.map('mapid', {
-      maxZoom: 18,
+      maxBounds: L.latLngBounds([-90, -180], [90, 180]),
       minZoom: 2,
-    }).setView([-10, 140], 3);
+    }).setView([0, 0], 2);
 
     /*Set Basemap*/
     var baseMap = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWljaGFlbHJlbnppIiwiYSI6ImNpcm52ZGRhejA5aTZ0Mm5rMnN4ejliZzkifQ.Lj8WQ3_5jDGqO9BMk6CRUg', {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
         '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
         'Imagery &copy; <a href="http://mapbox.com">Mapbox</a>',
+      bounds: L.latLngBounds([-90, -180], [90, 180]),
       id: 'mapbox.streets',
     })
     baseMap.addTo(map);
