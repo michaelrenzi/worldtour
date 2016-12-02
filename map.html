@@ -42,74 +42,74 @@ permalink: /map
     nycMarker.bindPopup("<b>New York City</b><br />")
     var hanoiMarker = L.marker([21.0278, 105.8342]).addTo(map);
     hanoiMarker.bindPopup("<img src='{{ site.baseurl }}/img/hanoi.jpeg' class='map-photo' alt='Hanoi'><br /><b>Hanoi, Vietnam</b><br /><a href='https://www.google.com/maps/place/Hanoi,+Ho%C3%A0n+Ki%E1%BA%BFm,+Hanoi,+Vietnam/@21.0226929,105.8018581,13z/data=!3m1!4b1!4m5!3m4!1s0x3135ab9bd9861ca1:0xe7887f7b72ca17a9!8m2!3d21.0277644!4d105.8341598' target='_blank'>View in Google Maps</a>")
-    hanoiMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var danangMarker = L.marker([16.0544, 108.2022]).addTo(map);
-    danangMarker.bindPopup("<img src='{{ site.baseurl }}/img/danang.jpg' class='map-photo' alt='Danang'><br /><b>Danang, Vietnam</b><br /><a href='https://www.google.com/maps?q=Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam&ftid=0x314219c792252a13:0xfc14e3a044436487' target='_blank'>View in Google Maps</a>")
-    danangMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+    danangMarker.bindPopup("<img src='{{ site.baseurl }}/img/danang.jpg' class='map-photo' alt='Danang'><br /><b>Danang, Vietnam</b><br /><a href='https://www.google.com/maps?q=Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+   Nang,+Vietnam&ftid=0x314219c792252a13:0xfc14e3a044436487' target='_blank'>View in Google Maps</a>")
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var hoChiMinhMarker = L.marker([10.8231, 106.6297]).addTo(map);
     hoChiMinhMarker.bindPopup("<img src='{{ site.baseurl }}/img/hochiminh.jpeg' class='map-photo' alt='Ho Chi Minh City'><br /><b>Ho Chi Minh City, Vietnam</b><br /><a href='https://www.google.com/maps?q=Ho+Chi+Minh+City,+Ho+Chi+Minh+70000,+Vietnam&ftid=0x317529292e8d3dd1:0xf15f5aad773c112b' target='_blank'>View in Google Maps</a>")
-    hoChiMinhMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var siemReapMarker = L.marker([13.3671, 103.8448]).addTo(map);
     siemReapMarker.bindPopup("<img src='{{ site.baseurl }}/img/siemreap.jpg' class='map-photo' alt='Siem Reap'><br /><b>Siem Reap, Cambodia</b><br /><a href='https://www.google.com/maps/place/Krong+Siem+Reap,+Cambodia/@13.3427236,103.7228679,11z/data=!3m1!4b1!4m5!3m4!1s0x3110169a8c91a879:0xa940aaf93ee5bbfa!8m2!3d13.3670968!4d103.8448134' target='_blank'>View in Google Maps</a>")
-    siemReapMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var bangkokMarker = L.marker([13.7563, 100.5018]).addTo(map);
     bangkokMarker.bindPopup("<img src='{{ site.baseurl }}/img/bangkok.jpg' class='map-photo' alt='Bangkok'><br /><b>Bangkok, Thailand</b><br /><a href='https://www.google.com/maps?q=Bangkok,+Thailand&ftid=0x311d6032280d61f3:0x10100b25de24820' target='_blank'>View in Google Maps</a>")
-    bangkokMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var kophiphiMarker = L.marker([7.7407, 98.7784]).addTo(map);
     kophiphiMarker.bindPopup("<img src='{{ site.baseurl }}/img/kophiphi.jpg' class='map-photo' alt='Ko Phi Phi'><br /><b>Ko Phi Phi, Thailand</b><br /><a href='https://www.google.com/maps/place/Phi+Phi+Islands/@7.7526506,98.7390834,13z/data=!3m1!4b1!4m5!3m4!1s0x304e20be764e3d0d:0xbf9db8781a549f71!8m2!3d7.740738!4d98.77841' target='_blank'>View in Google Maps</a>")
-    kophiphiMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var singaporeMarker = L.marker([1.3521, 103.8198]).addTo(map);
     singaporeMarker.bindPopup("<img src='{{ site.baseurl }}/img/singapore.jpg' class='map-photo' alt='Singapore'><br /><b>Singapore</b><br /><a href='https://www.google.com/maps?q=Singapore&ftid=0x31da1767b42b8ec9:0x400f7acaedaa420' target='_blank'>View in Google Maps</a>")
-    singaporeMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var baliMarker = L.marker([-8.3405, 115.0920]).addTo(map);
     baliMarker.bindPopup("<img src='{{ site.baseurl }}/img/bali.jpg' class='map-photo' alt='Bali'><br /><b>Bali, Indonesia</b><br /><a href='https://www.google.com/maps?q=Bali&ftid=0x2dd22f7520fca7d3:0x2872b62cc456cd84' target='_blank'>View in Google Maps</a>")
-    baliMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var cairnsMarker = L.marker([-16.9186, 145.7781]).addTo(map);
     cairnsMarker.bindPopup("<img src='{{ site.baseurl }}/img/cairns.jpg' class='map-photo' alt='Cairns'><br /><b>Cairns, Australia</b><br /><a href='https://www.google.com/maps?q=Cairns+QLD,+Australia&ftid=0x697862555ba22413:0x400eef17f207860' target='_blank'>View in Google Maps</a>")
-    cairnsMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var adelaideMarker = L.marker([-34.9285, 138.6007]).addTo(map);
     adelaideMarker.bindPopup("<img src='{{ site.baseurl }}/img/adelaide.jpg' class='map-photo' alt='Adelaide'><br /><b>Adelaide, Australia</b><br /><a href='https://www.google.com/maps?q=Adelaide+SA,+Australia&ftid=0x6ab735c7c526b33f:0x4033654628ec640' target='_blank'>View in Google Maps</a>")
-    adelaideMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var melbourneMarker = L.marker([-37.8136, 144.9631]).addTo(map);
     melbourneMarker.bindPopup("<img src='{{ site.baseurl }}/img/melbourne.jpg' class='map-photo' alt='Melbourne'><br /><b>Melbourne, Australia</b><br /><a href='https://www.google.com/maps/place/Melbourne+VIC,+Australia/@-37.971237,144.4926947,9z/data=!3m1!4b1!4m5!3m4!1s0x6ad646b5d2ba4df7:0x4045675218ccd90!8m2!3d-37.8136276!4d144.9630576' target='_blank'>View in Google Maps</a>")
-    melbourneMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var sydneyMarker = L.marker([-33.8688, 151.2093]).addTo(map);
     sydneyMarker.bindPopup("<img src='{{ site.baseurl }}/img/sydney.jpg' class='map-photo' alt='Sydney'><br /><b>Sydney, Australia</b><br /><a href='https://www.google.com/maps?q=Sydney+NSW,+Australia&ftid=0x6b129838f39a743f:0x3017d681632a850' target='_blank'>View in Google Maps</a>")
-    sydneyMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var queenstownMarker = L.marker([-45.0312, 168.6626]).addTo(map);
     queenstownMarker.bindPopup("<img src='{{ site.baseurl }}/img/queenstown.jpg' class='map-photo' alt='Queenstown'><br /><b>Queenstown, New Zealand</b><br /><a href='https://www.google.com/maps?q=Queenstown,+New+Zealand&ftid=0xa9d51df1d7a8de5f:0x500ef868479a600' target='_blank'>View in Google Maps</a>")
-    queenstownMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
     var wellingtonMarker = L.marker([-41.2865, 174.7762]).addTo(map);
     wellingtonMarker.bindPopup("<img src='{{ site.baseurl }}/img/wellington.jpg' class='map-photo' alt='Wellington'><br /><b>Wellington, New Zealand</b><br /><a href='https://www.google.com/maps?q=Wellington,+New+Zealand&ftid=0x6d38b1fc49e974cb:0xa00ef63a213b470' target='_blank'>View in Google Maps</a>")
-    wellingtonMarker.on('click', function(e){
-        map.setView(e.latlng, 10);
-    });
+        .on('click', function(e){
+            map.setView(e.latlng, 10);
+        });
 
     /*Create Line*/
     var linePoints = [[40.7128,-74.0059],[21.0278, 105.8342],[16.0544, 108.2022],[10.8231, 106.6297],[13.3671, 103.8448],[13.7563, 100.5018],[7.7407, 98.7784],[1.3521, 103.8198],[-8.3405, 115.0920],[-16.9186, 145.7781],[-34.9285, 138.6007],[-37.8136, 144.9631],[-33.8688, 151.2093],[-45.0312, 168.6626],[-41.2865, 174.7762]]
