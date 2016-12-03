@@ -115,7 +115,7 @@ section#feature {
   background-image: url(../img/halstatt.jpg);
   background-size:cover;
   background-repeat:no-repeat;
-  margin-top:122px;
+  margin:120px 0px 20px 0px;
   min-height:400px;
   padding-top: 290px;
 }
@@ -161,10 +161,10 @@ div.footer p {
   margin-right: auto;
   border-radius: 10px;
   height: 250px;
-  transition: opacity 1s, border 1s,ease;
+  border:2px solid black;
+  transition: opacity 1s;
 }
 .post-image:hover {
-  border:1px solid black;
   opacity: .7;
 }
 .rss-subscribe {
@@ -211,6 +211,9 @@ section#post-feature {
 }
 .archive-title {
   margin-bottom:0px;
+}
+.section-heading {
+  margin-bottom:20px;
 }
 /*Subpage Styles*/
 section#feature-subpage {
