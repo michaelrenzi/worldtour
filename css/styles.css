@@ -158,7 +158,7 @@ hr {
   margin-bottom:0px;
   float:none;
 }
-.post-image {
+.post-image-home {
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
@@ -166,7 +166,7 @@ hr {
   border:2px solid black;
   transition: opacity 1s;
 }
-.post-image:hover {
+.post-image-home:hover {
   opacity: .7;
 }
 .rss-subscribe {
@@ -281,4 +281,19 @@ section#feature-subpage {
   margin-top:10px;
   margin-bottom:5px;
   width:220px;
+}
+/* Post Styles */
+.post-image {
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  border:2px solid black;
+  border-radius: 10px;
+  cursor:hand;
+}
+.post-image:hover {
+  cursor:hand;
+}
+a.pop {
+  cursor: pointer;"
 }

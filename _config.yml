@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://michaelrenzi.github.io/worldtour" # the base hostname & protocol for your site
 github_username:  michaelrenzi
 
+# Permalinks
+permalink: /blog/:year/:month/:day/:title/
+
 # Build settings
 markdown: kramdown
 theme: minima
