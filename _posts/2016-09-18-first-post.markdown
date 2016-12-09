@@ -2,7 +2,7 @@
 layout: post
 title:  "It's goin down"
 date:   2016-12-9 12:00:00 -0400
-img: "{{ site.baseurl }}/img/halstatt.jpg"
+img: "https://michaelrenzi.github.io/worldtour/img/halstatt.jpg"
 img-alt: "Halstatt"
 teaser: "Picture is from a past trip, just using it to test stuff out."
 categories: jekyll update
