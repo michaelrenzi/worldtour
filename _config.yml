@@ -22,7 +22,7 @@ url: "http://michaelrenzi.github.io/worldtour" # the base hostname & protocol fo
 github_username:  michaelrenzi
 
 # Permalinks
-permalink: /blog/:year/:month/:day/:title/
+# permalink: /blog/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
