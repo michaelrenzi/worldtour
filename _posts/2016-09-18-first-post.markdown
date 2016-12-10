@@ -111,7 +111,7 @@ It's happening! We bought our flights and hotels/AirBnB's and leave January 14th
 
 For those of you viewing this page, you most likely either were given the link from one of us or were directed here from social media. Basically, the purpose of this blog will be to have a way of keeping our friends and family updated so they don't need to look through Facebook albums of hundreds of pics or so they can check every once in a while and reassure we have not been detained by foreign autorities and/or encountered any other mishaps (this purpose in particular for my mother).
 
-So, in regards to what you can expect to get out of this blog, we'll probably have a couple paragraphs such as these at (hopefully) each spot we go to and include a few tidbits about some of the things we did, and then have a few photos below. I'm doing a sample here somewhat to give you an idea but mostly so I can test it out and make sure it will work. You should be able to click each pic to open it up and then click anywhere outside the picture to exit (**disclaimer - the second and third photos here are not mine**).
+So, in regards to what you can expect to get out of this blog, we'll probably have a couple paragraphs such as these at (hopefully) each spot we go to and include a few tidbits about some of the things we did, and then have a few photos below. I'm doing a sample here somewhat to give you an idea but mostly so I can test it out and make sure it will work. You should be able to click each pic to open it up and then click anywhere outside the picture to exit (disclaimer - the second and third photos here are not mine).
 
 <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
