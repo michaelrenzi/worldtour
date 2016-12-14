@@ -123,11 +123,12 @@ p.title {
 section#feature {
   text-align: center;
   background-image: url(../img/halstatt.jpg);
-  background-size:cover;
+  background-size:100%;
   background-repeat:no-repeat;
   margin:120px 0px 20px 0px;
-  min-height:400px;
-  padding-top: 290px;
+  min-height:200px;
+  padding-top: 25%;
+  padding-bottom:30px;
 }
 @media (max-width:768px) {
   section#feature {
