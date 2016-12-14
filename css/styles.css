@@ -1,5 +1,11 @@
 /*TEMPLATE STYLES*/
 /* Navigation Styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, .navbar-brand {
+  font-family: 'Roboto', sans-serif;
+}
 nav img {
   height:100px;
   width:100px;
@@ -97,6 +103,10 @@ span.navbar-brand>a {
   border-radius: 2px;
   margin: 0px;
   font-size:18px;
+}
+
+.footer .fa {
+  margin-right:5px;
 }
 
 /*Title Area Styles*/
