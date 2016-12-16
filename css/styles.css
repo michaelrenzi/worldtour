@@ -234,11 +234,10 @@ section#post-feature {
 /*Subpage Styles*/
 section#feature-subpage {
   text-align: center;
-  background-size:cover;
+  background-size:100% 100%;
   background-image:url(../img/st-lucia.jpg);
   background-repeat:no-repeat;
-  min-height:250px;
-  padding-top:150px;
+  padding-top:10%;
   margin:120px 0px 20px;
 }
 @media (max-width:768px) {
