@@ -126,11 +126,10 @@ p.title {
 }
 section#feature {
   text-align: center;
-  background-image: url(../img/salzburg.jpg);
-  background-size:100%;
+  background-image: url(../img/soufriere.jpg);
+  background-size:100% 100%;
   background-repeat:no-repeat;
   margin:120px 0px 20px 0px;
-  min-height:200px;
   padding-top: 25%;
   padding-bottom:30px;
 }
