@@ -8,7 +8,7 @@ teaser: "Picture is from a past trip, just using it to test stuff out."
 categories: jekyll update
 ---
 
-It's happening! We bought our flights and hotels/AirBnB's and leave January 14th. We are beyond super excited but also sad to say farewell to our friends and colleagues, as well as the city of Washington, DC ([the greatest city on Earth ya!](https://youtu.be/k8226Jox78E?t=1m34s)). Here's a basic breakdown of where we'll be and when we'll be there. If you're going to be in the area or are feeling in need of a vacay, come meet up!
+It's happening! We bought our flights and hotels/AirBnB's and leave January 14th. We are beyond super excited but also sad to say farewell to our friends and colleagues, as well as the great city of Washington, DC. Here's a basic breakdown of where we'll be and when we'll be there. If you're going to be in the area or are feeling in need of a vacay, come meet up!
 
 <div class="table-responsive">
 <table class="table table-hover" style="width:70%; margin-left:auto; margin-right:auto">
@@ -23,93 +23,93 @@ It's happening! We bought our flights and hotels/AirBnB's and leave January 14th
   <tbody>
     <tr>
       <td>Hanoi, Vietnam</td>
-      <td>Jan. 16, 2017</td>
-      <td>Jan. 20, 2017</td>
+      <td>1/16/2017</td>
+      <td>1/20/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Danang, Vietnam</td>
-      <td>Jan. 20, 2017</td>
-      <td>Jan. 23, 2017</td>
+      <td>1/20/2017</td>
+      <td>1/23/2017</td>
       <td>3</td>
     </tr>
     <tr>
       <td>Ho Chi Minh City, Vietnam</td>
-      <td>Jan. 23, 2017</td>
-      <td>Jan. 27, 2017</td>
+      <td>1/23/2017</td>
+      <td>1/27/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Siem Reap, Cambodia</td>
-      <td>Jan. 27, 2017</td>
-      <td>Jan. 30, 2017</td>
+      <td>1/27/2017</td>
+      <td>1/30/2017</td>
       <td>3</td>
     </tr>
     <tr>
       <td>Bangkok, Thailand</td>
-      <td>Jan. 30, 2017</td>
-      <td>Feb. 2, 2017</td>
+      <td>1/30/2017</td>
+      <td>2/2/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Phi Phi Islands, Thailand</td>
-      <td>Feb. 2, 2017</td>
-      <td>Feb. 7, 2017</td>
+      <td>2/2/2017</td>
+      <td>2/7/2017</td>
       <td>5</td>
     </tr>
     <tr>
       <td>Singapore</td>
-      <td>Feb. 7, 2017</td>
-      <td>Feb. 12, 2017</td>
+      <td>2/7/2017</td>
+      <td>2/12/2017</td>
       <td>5</td>
     </tr>
     <tr>
       <td>Bali, Indonesia</td>
-      <td>Feb. 12, 2017</td>
-      <td>Feb. 17, 2017</td>
+      <td>2/12/2017</td>
+      <td>2/17/2017</td>
       <td>5</td>
     </tr>
     <tr>
       <td>Cairns, Australia</td>
-      <td>Feb. 18, 2017</td>
-      <td>Feb. 22, 2017</td>
+      <td>2/18/2017</td>
+      <td>2/22/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Adelaide, Australia</td>
-      <td>Feb. 22, 2017</td>
-      <td>Feb. 26, 2017</td>
+      <td>2/22/2017</td>
+      <td>2/26/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Melbourne, Australia</td>
-      <td>Feb. 26, 2017</td>
-      <td>Mar. 2, 2017</td>
+      <td>2/26/2017</td>
+      <td>3/2/2017</td>
       <td>4</td>
     </tr>
     <tr>
       <td>Sydney, Australia</td>
-      <td>Mar. 2, 2017</td>
-      <td>Mar. 8, 2017</td>
+      <td>3/2/2017</td>
+      <td>3/8/2017</td>
       <td>6</td>
     </tr>
     <tr>
       <td>Queenstown, New Zealand</td>
-      <td>Mar. 8, 2017</td>
-      <td>Mar. 13, 2017</td>
+      <td>3/8/2017</td>
+      <td>3/13/2017</td>
       <td>5</td>
     </tr>
     <tr>
       <td>Wellington, New Zealand</td>
-      <td>Mar. 13, 2017</td>
-      <td>Mar. 17, 2017</td>
+      <td>3/13/2017</td>
+      <td>3/17/2017</td>
       <td>4</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-For those of you viewing this page, you most likely either were given the link from one of us or were directed here from social media. Basically, the purpose of this blog will be to have a way of keeping our friends and family updated so they don't need to look through Facebook albums of hundreds of pics or so they can check every once in a while and reassure we have not been detained by foreign autorities and/or encountered any other mishaps (this purpose in particular for my mother).
+For those of you viewing this page, you most likely were either given the link from one of us or were directed here from social media. Basically, the purpose of this blog will be to have a way of keeping our friends and family updated so they don't need to look through Facebook albums of hundreds of pics or so they can check every once in a while and reassure we have not been detained by foreign autorities and/or encountered any other mishaps (this purpose in particular for my mother).
 
 So, in regards to what you can expect to get out of this blog, we'll probably have a couple paragraphs such as these at (hopefully) each spot we go to and include a few tidbits about some of the things we did, and then have a few photos below. I'm doing a sample here somewhat to give you an idea but mostly so I can test it out and make sure it will work. You should be able to click each pic to open it up and then click anywhere outside the picture to exit (disclaimer - the second and third photos here are not mine).
 
