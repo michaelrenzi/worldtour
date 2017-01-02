@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "It's goin down"
+comments: ture
 date:   2016-12-9 12:00:00 -0400
 img: "https://michaelrenzi.github.io/worldtour/img/halstatt.jpg"
 img-alt: "Halstatt"
