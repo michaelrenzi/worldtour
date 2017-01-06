@@ -272,6 +272,7 @@ section#feature-subpage {
 #mapid {
   height: 600px;
   margin-top: 20px;
+  margin-bottom:20px;
 }
 .info {
   padding: 6px 8px;
