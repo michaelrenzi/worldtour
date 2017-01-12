@@ -116,13 +116,13 @@ So, in regards to what you can expect to get out of this blog, we'll probably ha
 
 <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/halstatt.jpg" class="img-responsive post-image" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/halstatt.jpg" class="img-responsive post-image" alt="Halstatt"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/sydney.jpg" class="img-responsive post-image" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/sydney.jpg" class="img-responsive post-image" alt="Sydney" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/wellington.jpg" class="img-responsive post-image" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/wellington.jpg" class="img-responsive post-image" alt="Wellington" /></a></p>
       </div>
 </div>
 
@@ -132,6 +132,7 @@ So, in regards to what you can expect to get out of this blog, we'll probably ha
       <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <img src="" class="imagepreview" style="width: 100%;" >
+        <p class="centered" id="captionpreview"></p>
       </div>
     </div>
   </div>
