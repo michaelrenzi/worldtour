@@ -311,3 +311,6 @@ section#feature-subpage {
 a.pop {
   cursor: pointer;
 }
+img.imagepreview {
+  margin-bottom: 10px;
+}
