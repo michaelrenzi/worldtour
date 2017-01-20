@@ -1,0 +1,188 @@
+---
+layout: post
+title:  "Greetings from Hanoi"
+comments: true
+date:   2017-1-20 12:00:00 +0700
+img: "https://michaelrenzi.github.io/worldtour/img/hanoi/3.jpg"
+img-alt: "Hanoi"
+teaser: "Four days in the capital of Vietnam."
+categories: jekyll update
+---
+
+Hello from Vietnam! We landed in Danang today, so thought that now would be an appropriate time to post our first update from our stay in Hanoi.
+
+Our stay in the capital was an interesting experience to say the least. We could tell within the first thirty minutes that this would be unlike than any other city we had stayed at before, particularly from the fact that our Uber driver almost hit somewhere between 20 to 30 motorcycles on the way from the airport to our hotel. Even after exploring Hanoi for four days, we still are not sure if there are any true rules to the road. After our adventurous ride home, we had a chance to explore the city. We went to a few historical sites and museums, including the Hoa Lo Prison (aka Hanoi Hilton) where John McCain was held during the Vietnam War, and all-in-all learned about the difficult history of Vietnam (they've been invaded so many times!). We also explored the Old Quarter, where you could buy a knock-off of pretty much anything you could imagine, and had some amazing local cuisine.
+
+On our second day, we made a trip to the Ninh Binh province, and visited both Hua Lu, the first capital of Vietnam, and the Tam Coc River. Not much remains in Hua Lu, as it hasn't been the capital for centuries, but we were able to visit temples dedicated to the first two Kings of Vietnam dating back to the 10th century. After seeing these temples, we then took a bamboo boat trip down the Tam Coc River to a floating market that that included stunning views of surrounding mountains and rice fields, even flowing under one of said mountains. Our boat driver also rowed the boat with his feet, which was pretty impressive. Lastly, we visited an ancient pagoda in the side of one of the mountains in Ninh Binh (unfortunately the name escapes us). There were multiple pagodas within the complex, each one built into the side of the mountain, and we ended up about 300 feet or so up the mountain before we reached the final one.
+
+Now, unfortunately we did not realize that Vietnam was mostly cloudy and rainy during January, but we still decided that we could not pass up the opportunity to go to Halong Bay, so we made the trip there yesterday. Halong Bay is about a four hour drive east of Hanoi off the coast of Vietnam, with over 1,000 islands jutting out of the bay. Even with subpar weather, this was definitely one of the cooler places we've ever visited. We took a boat out with about 20 other travellers and rode around the bay for a half day tour, which included stops on the largest island there to explore a ridiculously large cave, as well as the largest floating market tucked within the islands. Halong Bay was recently named one of the Seven Wonders of the New World, and it was easy for us to see why. We would definitely recommend a visit there to anyone who has thought of going to Vietnam, but would also suggest doing it during the summer!
+
+Here are some pix. I mentioned this in the last post, but you should be able to click each one and it will say where the photo is from.
+
+<div class="row">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/1.jpg" class="img-responsive post-image" alt="Ho Hoan Kiem Lake in Hanoi"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/2.jpg" class="img-responsive post-image" alt="Ho Hoan Kiem Lake in Hanoi" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/3.jpg" class="img-responsive post-image" alt="Old Quarter, Hanoi" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/4.jpg" class="img-responsive post-image" alt="Old Quarter/first dinner"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/5.jpg" class="img-responsive post-image" alt="Hotpot!" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/6.jpg" class="img-responsive post-image" alt="Entrance to Hua Lu" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/7.jpg" class="img-responsive post-image" alt="Entrance to Hua Lu" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/8.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/9.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/10.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/11.jpg" class="img-responsive post-image" alt="Peek-a-boo"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/12.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/13.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/14a.jpg" class="img-responsive post-image" alt="Hua Lu Temple Complex"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/15.jpg" class="img-responsive post-image" alt="New bud" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/16.jpg" class="img-responsive post-image" alt="River outside Hua Lu" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/17.jpg" class="img-responsive post-image" alt="River outside Hua Lu" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/18.jpg" class="img-responsive post-image" alt="Tam Coc River"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/19.jpg" class="img-responsive post-image" alt="Tam Coc River" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/20.jpg" class="img-responsive post-image" alt="Tam Coc River" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/21.jpg" class="img-responsive post-image" alt="Tam Coc River"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/22.jpg" class="img-responsive post-image" alt="Tam Coc River" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/23.jpg" class="img-responsive post-image" alt="Tam Coc River" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/24.jpg" class="img-responsive post-image" alt="Tam Coc River - Going under the mountain"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/25.jpg" class="img-responsive post-image" alt="Tam Coc River" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/26.jpg" class="img-responsive post-image" alt="Pagoda whose name we forgot" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/27.jpg" class="img-responsive post-image" alt="No dancing in the pagoda" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/28.jpg" class="img-responsive post-image" alt="Pagoda"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/29.jpg" class="img-responsive post-image" alt="Pagoda" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/30.jpg" class="img-responsive post-image" alt="Pagoda" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/31.jpg" class="img-responsive post-image" alt="Ho Hoan Kiem Lake at Night"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/32.jpg" class="img-responsive post-image" alt="Opera House" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/33.jpg" class="img-responsive post-image" alt="Egg Coffee (the best!)" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/34.jpg" class="img-responsive post-image" alt="Another pagoda in Hanoi"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/35.jpg" class="img-responsive post-image" alt="Buddha" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/36.jpg" class="img-responsive post-image" alt="Mausoleum to Ho Chi Minh" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/37.jpg" class="img-responsive post-image" alt="One Pillar Pagoda" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/38.jpg" class="img-responsive post-image" alt="One Pillar Pagoda"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/39.jpg" class="img-responsive post-image" alt="Meagan and her Banh Cuon" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/40.jpg" class="img-responsive post-image" alt="Boats on Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/41.jpg" class="img-responsive post-image" alt="Halong Bay"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/42.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/43.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/44.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/45.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/46.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/47.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/48.jpg" class="img-responsive post-image" alt="Halong Bay"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/49.jpg" class="img-responsive post-image" alt="Floating Markets at Halong Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/50.jpg" class="img-responsive post-image" alt="Floating Markets at Halong Bay"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/51.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+      </div>
+</div>
+
+<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <img src="" class="imagepreview" style="width: 100%;" >
+        <p class="centered" id="captionpreview"></p>
+      </div>
+    </div>
+  </div>
+</div>
