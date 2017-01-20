@@ -177,7 +177,6 @@ hr {
   margin-right: auto;
   border-radius: 10px;
   height: 250px;
-  border:1px solid black;
   transition: opacity 1s;
 }
 .post-image-home:hover {
