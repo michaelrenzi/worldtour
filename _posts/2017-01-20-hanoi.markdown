@@ -15,7 +15,7 @@ Our stay in the capital was a fascinating and fun experience to say the least. W
 
 On our second day, we made a trip to the Ninh Binh province, and visited both Hua Lu, one of the ancient capitals of Vietnam, and the Tam Coc River. Not much remains in Hua Lu, as it hasn't been the capital for centuries, but we were able to visit temples dedicated to the first two Kings of Vietnam dating back to the 10th century. After seeing these temples, we then took a bamboo boat trip down the Tam Coc River to a floating market that that included stunning views of surrounding mountains and rice fields, even flowing under one of said mountains. Our boat driver also rowed the boat with his feet rather than his hands, so that was pretty impressive. Lastly, we visited an ancient pagoda in the side of one of the mountains in Ninh Binh (unfortunately the name escapes us). There were multiple pagodas within the complex, each one built into the side of the mountain, and we ended up about 300 feet or so up the mountain before we reached the final one.
 
-Now, unfortunately we did not realize that Vietnam was mostly cloudy and rainy during January, but we still decided that we could not pass up the opportunity to go to Halong Bay, so we made the trip there yesterday. Halong Bay is about a four hour drive east of Hanoi off the coast of Vietnam, with over 1,000 islands jutting out of the bay. Even with subpar weather, this was definitely one of the cooler places we've ever visited. We took a boat out with about 20 other travellers and rode around the bay for a half day tour, which included stops on the largest island there to explore a ridiculously large cave, as well as the largest floating market tucked within the islands. Halong Bay was recently named one of the Seven Wonders of the New World, and it was easy for us to see why. We would definitely recommend a visit there to anyone who has thought of going to Vietnam, but would also suggest doing it during the summer!
+Now, unfortunately we did not realize that Vietnam was mostly cloudy and rainy during January, but we still decided that we could not pass up the opportunity to go to Ha Long Bay, so we made the trip there yesterday. Ha Long Bay is about a four hour drive east of Hanoi off the coast of Vietnam, with over 1,000 islands jutting out of the bay. Even with subpar weather, this was definitely one of the cooler places we've ever visited. We took a boat out with about 20 other travellers and rode around the bay for a half day tour, which included stops on the largest island there to explore a ridiculously large cave, as well as the largest floating market tucked within the islands. Ha Long Bay was recently named one of the [New Seven Natural Wonders of the world](https://en.wikipedia.org/wiki/New7Wonders_of_Nature), and it was easy for us to see why. We would definitely recommend a visit there to anyone who has thought of going to Vietnam, but would also suggest doing it during the summer!
 
 Here are some pix. I mentioned this in the last post, but you should be able to click each one and it will say where the photo is from.
 
@@ -138,40 +138,41 @@ Here are some pix. I mentioned this in the last post, but you should be able to 
         <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/39.jpg" class="img-responsive post-image" alt="Meagan and her Banh Cuon" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/40.jpg" class="img-responsive post-image" alt="Boats on Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/40.jpg" class="img-responsive post-image" alt="Boats on 
+        Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/41.jpg" class="img-responsive post-image" alt="Halong Bay"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/41.jpg" class="img-responsive post-image" alt="Ha Long Bay"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/42.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/42.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/43.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/43.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/44.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Halong Bay"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/44.jpg" class="img-responsive post-image" alt="Ridiculously large cave at Ha Long Bay"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/45.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/45.jpg" class="img-responsive post-image" alt="Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/46.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/46.jpg" class="img-responsive post-image" alt="Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/47.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/47.jpg" class="img-responsive post-image" alt="Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/48.jpg" class="img-responsive post-image" alt="Halong Bay"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/48.jpg" class="img-responsive post-image" alt="Ha Long Bay"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/49.jpg" class="img-responsive post-image" alt="Floating Markets at Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/49.jpg" class="img-responsive post-image" alt="Floating Markets at Ha Long Bay" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/50.jpg" class="img-responsive post-image" alt="Floating Markets at Halong Bay"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/50.jpg" class="img-responsive post-image" alt="Floating Markets at Ha Long Bay"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/51.jpg" class="img-responsive post-image" alt="Halong Bay" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/hanoi/51.jpg" class="img-responsive post-image" alt="Ha Long Bay" /></a></p>
       </div>
 </div>
 
