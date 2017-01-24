@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "Central Vietnam"
+comments: true
+date:   2017-1-24 12:00:00 +0700
+img: "https://michaelrenzi.github.io/worldtour/img/danang/10.jpg"
+img-alt: "Hoi An"
+teaser: "Beachtown and a trip to the ancient city"
+categories: jekyll update
+---
+
+Our stay in Danang was short but sweet. Danang is a large city on the beach in central Vietnam. It is only a short hour flight south of Hanoi, but had a very different feel from the bustling city. We spent most of our days hanging out on the beach and enjoying seafood, but decided one day to rent a motorbike and take a trip to Hoi An and the Marble Mountains.
+
+Renting the motorbike was one of the best decisions we could have made (it was $5 for the day). We rode down the coastline to get to Hoi An, and spent half the day exploring the ancient city. Hoi An used to be a main trading port for Vietnam centuries ago, and has been well-preserved since then to the point where it has been named a UNESCO World Heritage Site. At every corner, there was a pagoda or assembly hall to stop in and look at, each of which different from the next. On our way back to Danang, we also stopped at the Marble Mountains, which was a large mountain with a trail of pagodas and caves on top of it. We learned too that the Viet Cong used these caves as hideouts during the Vietnam War. This was a shorter stop on the trip, but definitely worth it, even though we continually got stopped by a Vietnamese woman in a Yankees hat to try to sell us marble souvenirs (she even drove next to us on our motorbike to get us to pull over).
+
+After this, we tried and failed to get a drink at the Intercontinental, so we took our motorbike back to its home and relaxed for the rest of our stay. That night, we had a Vietnamese dish called Banh Xeo for dinner, which is eseentially a mix of a springroll and a pancake, and was agreed to be the most insanely good meal we've ever eaten (anyone going to Vietnam needs to try this dish!).
+
+On Monday we left for Ho Chi Minh City for our last stop in Vietnam, so we're gonna go out and explore now. Peace!
+
+<div class="row">
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/1.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/2.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/3.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/4.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/5.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/6.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/7.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/8.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/9.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/10.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/11.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/12.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/13.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/14.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/15.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/16.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/17.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/18.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/19.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/20.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/21.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/22.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/23.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/24.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/25.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/26.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/27.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/28.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/29.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/30.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/31.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/32.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/33.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/34.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/35.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/36.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/37.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/38.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/39.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/40.jpg" class="img-responsive post-image" alt="Boats on
+        Bay" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/41.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/42.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/43.jpg" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/44.jpg" class="img-responsive post-image" alt="caption"/></a></p>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-12">
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/danang/46.gif" class="img-responsive post-image" alt="caption" /></a></p>
+      </div>
+</div>
+
+<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <img src="" class="imagepreview" style="width: 100%;" >
+        <p class="centered" id="captionpreview"></p>
+      </div>
+    </div>
+  </div>
+</div>
