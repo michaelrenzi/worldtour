@@ -3,7 +3,7 @@ layout: post
 title:  "Saigon"
 comments: true
 date:   2017-1-27 12:00:00 +0700
-img: "https://michaelrenzi.github.io/worldtour/img/saigon/14.jpg"
+img: "https://lh3.googleusercontent.com/2zvJv9DbFGf94HcyQrRNlGCBF6d70--ph2kOGolLB0T7uIlyVvgZDkxVnhvgam1LSLzg8CS9uQNwy5tG83uJvAx3uvxOCQAeLX85J1SBMaI3YQoEseoCmTAmtntjQK6oHD7YIe7nagn4Uejt4_U_sK8D439Uv7PBN7UJAgxUupyWTkQafRwvp7EsGgiLQKSQCF6ekG4q6jXHeooO-PI0h5ikwlWXrMoVSrBavoZcX76Pd-0VEjc4OkVfNy_Y_kxjTIc4deNWS3l144QO9Nj7n7faHTGkavqKFVr8R8gkS2kVqJiZxUZ5RkjH3Jf30xrBLPHOmW-Td6P5e2Fy7VrTYq1FyRsW8cF1YbUHKDYBHfb7UPxqJ1p8iVf-yQIRtsyq8NEZhWiMG_SHHRowdhZYfBUQ5tRhaYy-Xg9sMVHiaahNBMPVgIRtn1HgqnCyMiDrpringXx0-lBTddIOmHljwc66P-H8OtQ2kec6F2ZRNkz4Ceigl4u71sAlSDGOunluW3B7ncCxUbKKiDGilAFsH1aMYY-COHkEj407ekl4tbMqqVRl2i4a22DXsSU7DxYmTk0eZjlOMpHLdSejmD3sT3DPJ9wNI3H_YJRNJbB5RawPLVM8gDEu=w418-h314-no"
 img-alt: "Saigon"
 teaser: "Last stop in Vietnam"
 categories: jekyll update
