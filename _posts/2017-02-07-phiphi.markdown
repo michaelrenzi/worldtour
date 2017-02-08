@@ -5,7 +5,7 @@ comments: true
 date:   2017-02-07 12:00:00 +0700
 img: "https://lh3.googleusercontent.com/mhZsc09GrPBvXhbiTkV4qHJ3BKbi2BGY0HGtCQZ565z3XvjBVzfAjrNbU6a-ryEnhhCXrDjviZW0nhzr71d_1WvFrtURaqwBwz6N7K-vkj-kDQz0eDDdal1UFGqwfN8w2QrbO7AUka37qbC46fwt5W7tm3KL4PtnHNQ1QRx5vXfRA3Ztr2MmfcUB0YIZWBRkxfOy-CZAwjiTpiiilgk_nq_aTdEg3_EXtGGfCvrBol4U4Xr9I6k027TjKVwQ2BbIoXrlqto2uJJvVzSJ1v2lwGS57KNGGqyMHo9pLuSxeRDCcklD8JDqIv_NRRWoFrVD96-PXPTn6fcmGD-CujBAT6-616k44bO8o00-IV8TS_LlUoAoqXi0PwxoI6uP0X-CP_b5FWn1Rx5334XKqh-KmCvkTLWX74IAwZYIKoKJ4Go3KH89KqSFv_H5inf3m8YC1MIYjPLamrx1KwQ7UndgY3YiK7K2TKo3ka-XgN_wyYIPkzsp2gNGBsGeExT606KZ4BPAzAcZKEW0dRq9MWq6jjRTsW30dwaBbnbe5-Yxrq9KjfHoKKJ4wric2lAE0sQYsT801qlJV0X0TR0haA1VW67TBkH9UZYju9-kB2dT6TLKLsXFKtmk=w840-h630-no"
 img-alt: "Phi Phi Islands"
-teaser: "teaser"
+teaser: "Beachin"
 categories: jekyll update
 ---
 
