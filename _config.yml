@@ -17,7 +17,7 @@ title: M&M World Tour
 email: renzimichaelb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog for Mike and Meagan's trip.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/worldtour" # the subpath of your site, e.g. /blog
 url: "http://michaelrenzi.github.io/worldtour" # the base hostname & protocol for your site
 github_username:  michaelrenzi
 
@@ -27,5 +27,3 @@ permalink: /blog/:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 theme: minima
-
-baseurl: /worldtour
