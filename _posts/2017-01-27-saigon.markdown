@@ -19,94 +19,94 @@ With all of this as well as our stays in Hanoi and Danang, we both agree that Vi
 
 <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/1.jpg" alt="Saigon"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/1.jpg" class="img-responsive post-image" alt="Saigon"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/2.jpg" alt="Chopper at the War Remanants Museum" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/2.jpg" class="img-responsive post-image" alt="Chopper at the War Remanants Museum" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/3.jpg" alt="War Remnants Museum" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/3.jpg" class="img-responsive post-image" alt="War Remnants Museum" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/4.jpg" class="img-responsive post-image" alt="Microbrewery we found -- lots of cool stickers from American breweries"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/5.jpg" alt="A slightly more prestigious Hoya was here before us" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/5.jpg" class="img-responsive post-image" alt="A slightly more prestigious Hoya was here before us" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/6.jpg" alt="Pho for the Prez" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/6.jpg" class="img-responsive post-image" alt="Pho for the Prez" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/7.jpg" alt="Jade Emperor Pagoda" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/7.jpg" class="img-responsive post-image" alt="Jade Emperor Pagoda" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/8.jpg" alt="Central Post Office"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/8.jpg" class="img-responsive post-image" alt="Central Post Office"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/9.jpg" alt="Central Post Office" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/9.jpg" class="img-responsive post-image" alt="Central Post Office" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/10.jpg" alt="Central Post Office" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/10.jpg" class="img-responsive post-image" alt="Central Post Office" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/11.jpg" alt="Notre Dame Cathedral"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/11.jpg" class="img-responsive post-image" alt="Notre Dame Cathedral"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/12.jpg" alt="Notre Dame Cathedral" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/12.jpg" class="img-responsive post-image" alt="Notre Dame Cathedral" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/13.jpg" alt="Bitexco Financial Tower" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/13.jpg" class="img-responsive post-image" alt="Bitexco Financial Tower" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/14.jpg" alt="View from the Bitexco Skydeck"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/14.jpg" class="img-responsive post-image" alt="View from the Bitexco Skydeck"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/15.jpg" alt="View from Chill Skybar -- perhaps the greatest rooftop bar in the history of rooftop bars" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/15.jpg" class="img-responsive post-image" alt="View from Chill Skybar -- perhaps the greatest rooftop bar in the history of rooftop bars" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/16.jpg" alt="Chill Skybar" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/16.jpg" class="img-responsive post-image" alt="Chill Skybar" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/17.jpg" alt="Chill Skybar" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/17.jpg" class="img-responsive post-image" alt="Chill Skybar" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/18.jpg" alt="Pham Ngu Lao"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/18.jpg" class="img-responsive post-image" alt="Pham Ngu Lao"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/19.jpg" alt="Chu Chi Tunnels" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/19.jpg" class="img-responsive post-image" alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/20.jpg" alt="Chu Chi Tunnels" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/20.jpg" class="img-responsive post-image" alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/21.jpg" alt="Chu Chi Tunnels"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/21.jpg" class="img-responsive post-image" alt="Chu Chi Tunnels"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/22.jpg" alt="Chu Chi Tunnels" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/22.jpg" class="img-responsive post-image" alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/23.jpg" alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/24.jpg" alt="Little Kitty at the Cu Chi Tunnels"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/24.jpg" class="img-responsive post-image" alt="Little Kitty at the Cu Chi Tunnels"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/25.jpg" alt="The tunnel we crawled through!" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/25.jpg" class="img-responsive post-image" alt="The tunnel we crawled through!" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/26.jpg" alt="A building that appealed to Meagan's architectural side" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/26.jpg" class="img-responsive post-image" alt="A building that appealed to Meagan's architectural side" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/27.jpg" alt="Saigon Riverwalk" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/27.jpg" class="img-responsive post-image" alt="Saigon Riverwalk" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/28.jpg" alt="Flower Market"/></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/28.jpg" class="img-responsive post-image" alt="Flower Market"/></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/29.jpg" alt="Flower Market" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/29.jpg" class="img-responsive post-image" alt="Flower Market" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/30.jpg" alt="New Year's Eve Festivities" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/30.jpg" class="img-responsive post-image" alt="New Year's Eve Festivities" /></a></p>
       </div>
 </div>
 
