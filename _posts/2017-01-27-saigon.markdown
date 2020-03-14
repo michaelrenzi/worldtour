@@ -85,7 +85,7 @@ With all of this as well as our stays in Hanoi and Danang, we both agree that Vi
         <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/22.jpg" class="img-responsive post-image" alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
-        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/23.jpg" alt="Chu Chi Tunnels" /></a></p>
+        <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/23.jpg" class="img-responsive post-image"  alt="Chu Chi Tunnels" /></a></p>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <p><a class="pop"><img src="{{ site.baseurl }}/img/saigon/24.jpg" class="img-responsive post-image" alt="Little Kitty at the Cu Chi Tunnels"/></a></p>
