@@ -28,3 +28,4 @@ permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
 theme: minima
 
+baseurl: /worldtour
