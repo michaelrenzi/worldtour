@@ -3,7 +3,7 @@ layout: post
 title:  "Phi Phi Islands"
 comments: true
 date:   2017-02-07 12:00:00 +0700
-img: "{{ site.baseurl }}/img/phiphi/1.jpg"
+img: "https://michaelrenzi.github.io/worldtour/img/phiphi/27.jpg"
 img-alt: "Phi Phi Islands"
 teaser: "Beachin"
 categories: jekyll update

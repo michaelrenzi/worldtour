@@ -3,7 +3,7 @@ layout: post
 title:  "Bangkok"
 comments: true
 date:   2017-2-2 12:00:00 +0700
-img: "{{ site.baseurl }}/img/bangkok/33.jpg"
+img: "https://michaelrenzi.github.io/worldtour/img/bangkok/33.jpg"
 img-alt: "Bangkok"
 teaser: "A quick stay in the capital of Thailand"
 categories: jekyll update
@@ -17,7 +17,7 @@ If Bangkok was any indication for the rest of our stay in Thailand, then we are 
 
 <div class="row">
   <div class="col-lg-4 col-md-6 col-sm-12">
-    <p><a class="pop"><img src="{{ site.baseurl }}/img/bangkok/1.jpg" class="img-responsive post-image" alt="Wat Pho by night" /></a></p>
+    <p><a class="pop"><img src="0{{ site.baseurl }}/img/bangkok/1.jpg" class="img-responsive post-image" alt="Wat Pho by night" /></a></p>
   </div>
   <div class="col-lg-4 col-md-6 col-sm-12">
     <p><a class="pop"><img src="{{ site.baseurl }}/img/bangkok/2.jpg" class="img-responsive post-image" alt="Wat Pho by night" /></a></p>
