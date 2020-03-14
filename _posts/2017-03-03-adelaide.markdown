@@ -3,7 +3,7 @@ layout: post
 title:  "Adelaide"
 comments: true
 date:   2017-3-3 12:00:00 +0700
-img: "https://michaelrenzi.github.io/worldtour/img/adelaide/1.jpg"
+img: "https://michaelrenzi.github.io/worldtour/img/adelaide/7.jpg"
 img-alt: "Adelaide"
 teaser: "We came, we saw, we wined"
 categories: jekyll update
