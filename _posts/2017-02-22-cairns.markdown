@@ -3,7 +3,7 @@ layout: post
 title:  "Cairns"
 comments: true
 date:   2017-2-22 12:00:00 +0700
-img: "https://michaelrenzi.github.io/worldtour/img/cairns/1.jpg"
+img: "https://michaelrenzi.github.io/worldtour/img/cairns/6.jpg"
 img-alt: "Cairns"
 teaser: "Northern Australia and the Great Barrier Reef"
 categories: jekyll update
